@@ -518,9 +518,3 @@ $ cd BE/algoarium
 
 <br>
 <br>
-
-## 📒 License
-
-<p>
-This software is licensed under the MIT <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" _blank="new">©SSAFY</a>.
-</p>
